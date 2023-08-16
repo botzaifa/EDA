@@ -8,8 +8,8 @@ Author: [botzaifa](https://github.com/botzaifa)
 
 1. [ForestFire](ForestFire/) - A folder containing datasets and Jupyter Notebook code for EDA analysis on the Algerian Forest Fire dataset. 
 2. [EDA CheatSheet](EDA%20CheatSheet.pdf) - A cheat sheet summarizing key concepts and techniques used in Exploratory Data Analysis.
-3. [License](LICENSE) - The license information for the contents of this repository.
-4. [EDA-Workflow](EDA-Workflow.pdf) - A document describing the typical workflow for conducting exploratory data analysis.
+3. [EDA-Workflow](EDA-Workflow.pdf) - A document describing the typical workflow for conducting exploratory data analysis.
+4. [License](LICENSE) - The license information for the contents of this repository.
 5. [Readme](README.md) - You are here! This document provides an overview of the repository.
 
 ## ForestFire Folder
